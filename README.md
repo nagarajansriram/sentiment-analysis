@@ -1,2 +1,4 @@
 # sentiment-analysis
-sentiment analysis using spacy
+sentiment analysis using nltk..
+
+
